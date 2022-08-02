@@ -15,4 +15,4 @@
 
  ## Upcoming features 
 
-The next step is to converse chemical data to mineral ion data based on an Oxigen Basis. 
+The next step is to converte chemical data to mineral ion data based on an Oxigen Basis. 
