@@ -29,4 +29,11 @@ In this case, the hydroxyl accounts for half of the oxygens, it's like 7Os (-14)
 
 ![MolConversionWorkflow](./images/workflow.png)
 
+### Extra observations / bugs
+
+when filtering a DataFrame, the index must be initiated in zero, for some reason I dont know yet the convertion functions cant loop within a index not startin in zero. So, do a: 
+```
+DataFrame.reset_index(inplace=True)
+```
+
 
