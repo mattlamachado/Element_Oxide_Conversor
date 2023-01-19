@@ -7,7 +7,7 @@
 ---
 
 ## Description
- It's designed after geological application, to easy the transformation of chemical data from element to oxide and vice versa.
+ It's designed for geological application, to easy the transformation of chemical data from element to oxide and vice versa.
 
 Providing a Oxygen basis of a mineral, it's able to convert oxide mineral data to molar normalization.
 
