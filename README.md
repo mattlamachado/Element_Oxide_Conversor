@@ -36,3 +36,10 @@ when filtering a DataFrame, the index must be initiated in zero, for some reason
 DataFrame.reset_index(inplace=True)
 ```
 
+
+```bash
+conda create -n elemox python=3.9.12
+conda activate elemox
+pip install -r requirements.txt
+```
+
